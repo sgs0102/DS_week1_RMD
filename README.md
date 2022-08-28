@@ -30,6 +30,9 @@ Shreyesh Shetty
 ##  Max.   :31.800  
 ## 
  
+ ![image](https://user-images.githubusercontent.com/106268775/187055225-2a1758eb-2d85-4dcc-a86e-6a9d80a1cef1.png)
+
+ 
 We have data about 53940 diamonds. Only 126 are larger than 2.5 carats. The distribution of the remainder is shown below:
  
 ![image](https://user-images.githubusercontent.com/106268775/187055215-fa3ab783-9188-495f-9956-cf9b5f64f8c5.png)
